@@ -1,6 +1,8 @@
 <div align="center">
     <p>
-        <img src="https://orig00.deviantart.net/1954/f/2013/245/3/5/clash_of_geometry__animated__by_plutonia_v41-d6kpuve.png" alt="Descriptive Text for the GIF" />
+        <img src="https://orig00.deviantart.net/1954/f/2013/245/3/5/clash_of_geometry__animated__by_plutonia_v41-d6kpuve.png" 
+             alt="Descriptive Text for the GIF" 
+             style="max-width: 300px; height: auto;" />
     </p>
 </div>
 
