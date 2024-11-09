@@ -9,17 +9,29 @@ Welcome to my GitHub profile! I'm a passionate programmer who loves to solve pro
 - **Python**: Data analysis, machine learning, and web development.
 - **R**: Statistical analysis and data visualization.
 
-
 ## 🎨 Abstract Animations
-Here's a fun little animation to brighten your day! 🎉
+Here’s a fun little animation to brighten your day! 🎉
 
-```plaintext
-       .-""""""-.
-     .'          '.
-    /   O      O   \
-   :           `    :
-   |                |   
-   :    .------.    :
-    \  '        '  /
-     '.          .'
-       '-......-'
+![Abstract Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- Replace with your desired GIF -->
+
+## 📈 Fun Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/mostafa-tamiminezhad/)
+
+
+## 🎉 Fun Facts
+- I love solving puzzles and challenges.
+- In my free time, I enjoy hiking and exploring nature.
+- I’m currently learning about machine learning and AI!
+
+## 🖼️ More Fun Animations
+Check out these fun animations!
+
+![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) <!-- Replace with your desired GIF -->
+![Programming](https://media.giphy.com/media/26u4cqi8z5s8G0D3a/giphy.gif) <!-- Replace with your desired GIF -->
+
+## ✨ Thank you for visiting!
+Feel free to explore my repositories and reach out if you'd like to collaborate or just chat! 🚀
