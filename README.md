@@ -1,8 +1,25 @@
-<div style="display: flex; align-items: center;">
-    <h1 style="margin-right: 20px; font-size: 20px;">
-        <img src="https://orig00.deviantart.net/1954/f/2013/245/3/5/clash_of_geometry__animated__by_plutonia_v41-d6kpuve.png" 
-             alt="Descriptive Text for the GIF" 
-             style="width: 50px; height: auto;" />
-        <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=1500&color=00FFFF&center=true&vCenter=true&width=435&lines=Hey..+I'm+Mostafa;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
+# 👋 Hello, I'm Mostafa!
+
+Welcome to my GitHub profile! I'm a passionate programmer who loves to solve problems and create innovative solutions. I specialize in **C**, **Python**, and **R** programming languages.
+
+## 🚀 Skills
+
+### 💻 Programming Languages
+- **C**: Mastering the fundamentals of programming and system-level development.
+- **Python**: Data analysis, machine learning, and web development.
+- **R**: Statistical analysis and data visualization.
+
+
+## 🎨 Abstract Animations
+Here's a fun little animation to brighten your day! 🎉
+
+```plaintext
+       .-""""""-.
+     .'          '.
+    /   O      O   \
+   :           `    :
+   |                |   
+   :    .------.    :
+    \  '        '  /
+     '.          .'
+       '-......-'
