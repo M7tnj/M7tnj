@@ -1,6 +1,5 @@
-![Banner](https://i.redd.it/52phuza4pvs21.gif)
 
-# 👋 Hello, I'm Mostafa!
+![Banner](https://i.redd.it/52phuza4pvs21.gif) # 👋 Hello, I'm Mostafa!
 
 Welcome to my GitHub profile! I'm a passionate biologist, editor and programmer who loves to solve problems and loves complexity. I specialize in **Data Science**, **Python**, and **R** programming languages.
 
@@ -15,9 +14,6 @@ Welcome to my GitHub profile! I'm a passionate biologist, editor and programmer 
 - [preHeight](https://github.com/M7tnj/preHeight)
 - [Deep Learning](https://github.com/M7tnj/DL_fall2022)
 
-## 📈 Fun Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7tnj&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M7tnj&layout=compact&theme=radical)
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mostafa-tamiminezhad/)
