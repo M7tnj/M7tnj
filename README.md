@@ -2,12 +2,10 @@
 
 # 👋 Hello, I'm Mostafa!
 
-Welcome to my GitHub profile! I'm a passionate programmer who loves to solve problems and create innovative solutions. I specialize in **C**, **Python**, and **R** programming languages.
+Welcome to my GitHub profile! I'm a passionate biologist, editor and programmer who loves to solve problems and loves complexity. I specialize in **Data Science**, **Python**, and **R** programming languages.
 
-## 🚀 Skills
 
 ### 💻 Programming Languages
-- **C**: Mastering the fundamentals of programming and system-level development.
 - **Python**: Data analysis, machine learning, and web development.
 - **R**: Statistical analysis and data visualization.
 
@@ -27,11 +25,9 @@ Welcome to my GitHub profile! I'm a passionate programmer who loves to solve pro
 
 ## 🎉 Fun Facts
 - I love solving puzzles and challenges.
-- In my free time, I enjoy hiking and exploring nature.
+- In my free time, I enjoy walking and exploring nature.
 - I’m currently learning about machine learning and AI!
 
-
-![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) <!-- Replace with your desired GIF -->
 ![Programming](https://media.giphy.com/media/26u4cqi8z5s8G0D3a/giphy.gif) <!-- Replace with your desired GIF -->
 
 ## ✨ Thank you for visiting!
