@@ -1,7 +1,8 @@
+![Banner](https://i.redd.it/52phuza4pvs21.gif) 
+# 👋 Hello, I'm Mostafa!
 
-![Banner](https://i.redd.it/52phuza4pvs21.gif) # 👋 Hello, I'm Mostafa!
-
-Welcome to my GitHub profile! I'm a passionate biologist, editor and programmer who loves to solve problems and loves complexity. I specialize in **Data Science**, **Python**, and **R** programming languages.
+Welcome to my GitHub profile! I'm a passionate biologist, editor and programmer who loves to solve problems and loves complexity. 
+I specialize in **Data Science**, **Python**, and **R** programming languages.
 
 
 ### 💻 Programming Languages
