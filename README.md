@@ -23,7 +23,7 @@ I specialize in **Data Science**, **Python**, and **R** programming languages.
 ## 🎉 Fun Facts
 - I love solving puzzles and challenges.
 - In my free time, I enjoy walking and exploring nature.
-- I’m currently learning about machine learning and AI!
+- I’m currently learning about Computer Vision and AI!
 
 ![Programming](https://media.giphy.com/media/26u4cqi8z5s8G0D3a/giphy.gif) <!-- Replace with your desired GIF -->
 
