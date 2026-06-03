@@ -18,6 +18,7 @@ I specialize in **Data Science**, **Python**, and **R** programming languages.
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mostafa-tamiminezhad/)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 ## 🎉 Fun Facts
