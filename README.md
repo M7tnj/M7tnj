@@ -1,5 +1,5 @@
 ![Banner](https://i.redd.it/52phuza4pvs21.gif) 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 # 👋 Hello, I'm Mostafa!
 
 Welcome to my GitHub profile! I'm a passionate biologist, editor and programmer who loves to solve problems and loves complexity. 
