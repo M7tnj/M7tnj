@@ -9,12 +9,7 @@ I specialize in **Data Science**, **Python**, and **R** programming languages.
 ### 💻 Programming Languages
 - **Python**: Data analysis, machine learning, and web development.
 - **R**: Statistical analysis and data visualization.
-
-## 🌟 My Repositories
-
-- [preDiabet](https://github.com/M7tnj/preDiabet)
-- [preHeight](https://github.com/M7tnj/preHeight)
-- [Deep Learning](https://github.com/M7tnj/DL_fall2022)
+- **And a glimpse of everything interesting**
 
 
 ## 🌐 Let's Connect
